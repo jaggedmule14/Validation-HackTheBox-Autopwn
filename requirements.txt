@@ -1,0 +1,8 @@
+######-Requirements-######
+
+#-Pwntools-#
+pwntools
+#-Colorama-#
+colorama
+#-Requests-#
+requests
